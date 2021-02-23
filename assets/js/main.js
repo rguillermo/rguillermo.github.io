@@ -94,7 +94,7 @@
     
     function success() {
       form.reset();
-      button.style = "display: none ";
+      button.style.display = "none ";
       status.innerHTML = "Gracias! Responderé a la brevedad posible.";
     }
 
